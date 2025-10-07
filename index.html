@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ôn Luyện Vật Lí Lớp 7</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+  <div class="container">
+    <header class="mobile-menu">
+      <button class="menu-toggle">☰</button>
+    </header>
+    <aside class="sidebar">
+      <div class="sidebar-header">
+        <button class="close-sidebar">&times;</button>
+      </div>
+      <div class="progress">
+        <p>Điểm: <span id="score-display">0/10</span></p>
+        <p>Câu: <span id="current-question">0</span>/10</p>
+        <p>Tỷ lệ đúng: <span id="accuracy">0%</span></p>
+      </div>
+      <div class="topic-selection">
+        <button class="topic-btn" data-topic="1">1. Tốc độ</button>
+        <button class="topic-btn" data-topic="2">2. Âm thanh</button>
+        <button class="topic-btn" data-topic="3">3. Quang học</button>
+        <button class="topic-btn" data-topic="4">4. Từ trường</button>
+        <button class="topic-btn" data-topic="5">5. Tổng hợp (1-4)</button>
+      </div>
+    </aside>
+    <main>
+      <div id="quiz"></div>
+      <div class="button-group">
+        <button id="submit" class="btn">Trả lời</button>
+        <button id="next-question" class="btn" disabled>Câu tiếp theo</button>
+      </div>
+      <div id="results" class="result"></div>
+    </main>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
