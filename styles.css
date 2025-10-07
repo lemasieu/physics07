@@ -1,0 +1,280 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #1a1a1a;
+  color: #e0e0e0;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  overflow-x: hidden;
+}
+
+.container {
+  display: flex;
+  min-height: 100vh;
+}
+
+.menu-toggle {
+  background: none;
+  border: none;
+  color: #e0e0e0;
+  font-size: 1.5em;
+  cursor: pointer;
+  position: fixed;
+  top: 15px;
+  left: 15px;
+  z-index: 1002;
+  display: none;
+  padding: 5px 10px;
+  border-radius: 3px;
+}
+
+.sidebar {
+  width: 250px;
+  background-color: #2c2c2c;
+  padding: 20px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto; /* Thanh cuộn dọc */
+  transition: transform 0.3s ease-in-out;
+}
+
+.sidebar-header {
+  display: flex;
+  justify-content: flex-end;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #444;
+  margin-bottom: 20px;
+}
+
+.close-sidebar {
+  background: none;
+  border: none;
+  color: #e0e0e0;
+  font-size: 1.5em;
+  cursor: pointer;
+  padding: 5px;
+  line-height: 1;
+  display: none;
+}
+
+.sidebar.active .close-sidebar {
+  display: block;
+}
+
+.progress {
+  margin-bottom: 20px;
+  padding: 10px;
+  background-color: #333;
+  border-radius: 5px;
+}
+
+.progress p {
+  margin: 5px 0;
+  font-size: 0.9em;
+}
+
+.btn {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  background-color: #2ecc71; /* Đổi từ xanh dương (#34918db) sang xanh lá cây */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 1em;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.btn:hover {
+  background-color: #27ae60; /* Đổi từ xanh dương (#2980b9) sang xanh lá cây hover */
+}
+
+.btn:disabled {
+  background-color: #666;
+  cursor: not-allowed;
+}
+
+.topic-selection {
+  margin-top: 20px;
+}
+
+.topic-selection h3 {
+  margin-bottom: 15px;
+  font-size: 1.1em;
+}
+
+.topic-btn {
+  display: block;
+  width: 100%;
+  padding: 8px;
+  margin: 8px 0;
+  background-color: #444;
+  color: #e0e0e0;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: left;
+  font-size: 0.95em;
+  word-wrap: break-word; /* Cho phép xuống dòng */
+  overflow: visible; /* Đảm bảo hiển thị đầy đủ */
+}
+
+.topic-btn:hover {
+  background-color: #555;
+}
+
+main {
+  flex: 1;
+  padding: 25px;
+  margin-left: 275px; /* Tăng thêm để tránh che khuất */
+  min-width: 0; /* Đảm bảo flex không bị giới hạn */
+  transition: margin-left 0.3s ease-in-out;
+}
+
+.question {
+  margin-bottom: 20px;
+  max-width: 100%;
+  word-wrap: break-word; /* Đảm bảo xuống dòng */
+  overflow-wrap: break-word; /* Hỗ trợ thêm cho các trình duyệt */
+}
+
+.option {
+  display: block;
+  margin: 10px 0;
+  padding: 10px;
+  background-color: #333;
+  border-radius: 5px;
+  cursor: pointer;
+  max-width: 100%;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+.option:hover {
+  background-color: #444;
+}
+
+.option input[type="radio"] {
+  margin-right: 10px;
+}
+
+.button-group {
+  display: flex;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+#submit, #next-question {
+  flex: 1;
+  padding: 10px;
+  background-color: #2ecc71; /* Đổi từ xanh dương (#3498db) sang xanh lá cây */
+}
+
+#submit:hover, #next-question:hover {
+  background-color: #27ae60; /* Đổi từ xanh dương (#2980b9) sang xanh lá cây hover */
+}
+
+.result {
+  display: none;
+  margin-top: 20px;
+}
+
+.result-item {
+  border: 1px solid #555;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  background-color: #2c2c2c;
+  max-width: 100%;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+.result-item h4 {
+  color: #2ecc71; /* Đổi từ xanh dương (#3498db) sang xanh lá cây */
+  margin-top: 0;
+  font-size: 1.1em;
+}
+
+.correct {
+  color: #27ae60;
+  font-weight: bold;
+}
+
+.incorrect {
+  color: #e74c3c;
+  font-weight: bold;
+}
+
+.explanation {
+  font-style: italic;
+  color: #bdc3c7;
+  margin-top: 10px;
+  font-size: 0.9em;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+@media (max-width: 768px) {
+  .menu-toggle {
+    display: block;
+  }
+
+  .sidebar {
+    transform: translateX(-100%);
+    padding: 15px;
+  }
+
+  .sidebar.active {
+    transform: translateX(0);
+  }
+
+  .sidebar.active .close-sidebar {
+    display: block;
+  }
+
+  .container {
+    flex-direction: column;
+  }
+
+  main {
+    margin-left: 0;
+    padding: 10px;
+    width: 100%;
+  }
+
+  .topic-btn {
+    font-size: 0.85em;
+    margin: 6px 0;
+  }
+
+  .sidebar-header {
+    padding: 10px 0;
+  }
+}
+
+table {
+  border-collapse: collapse; /* Gộp các đường viền lại với nhau */
+  width: 100%; /* Đảm bảo bảng chiếm toàn bộ chiều rộng */
+  margin: 10px 0; /* Thêm khoảng cách trên dưới */
+  border: 1px solid #555; /* Đường viền chính cho bảng */
+}
+
+td {
+  border: 1px solid #555; /* Đường viền cho từng ô */
+  padding: 8px; /* Thêm padding để ô dễ đọc hơn */
+  text-align: center; /* Căn giữa nội dung trong ô */
+}
+
+th {
+  border: 1px solid #555; /* Đường viền cho tiêu đề (nếu có) */
+  padding: 8px;
+  text-align: center;
+}
