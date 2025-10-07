@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Review Câu Hỏi</title>
+  <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <link rel="stylesheet" href="style-rw.css">
+</head>
+<body>
+  <div class="container">
+    <select class="chapter-select" id="chapterSelect" onchange="filterChapters()">
+      <option value="1">Chương 1</option>
+      <option value="2">Chương 2</option>
+      <option value="3">Chương 3</option>
+      <option value="4">Chương 4</option>
+      <option value="all">Tất cả</option>
+    </select>
+
+    <div class="chapters" id="chapters"></div>
+  </div>
+  <script src="script-rw.js"></script>
+</body>
+</html>
