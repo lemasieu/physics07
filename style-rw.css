@@ -1,0 +1,111 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #1a1a1a;
+  color: #e0e0e0;
+  margin: 0;
+  padding: 20px;
+  line-height: 1.6;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.chapter-select {
+  margin-bottom: 20px;
+  padding: 10px;
+  font-size: 1em;
+  background-color: #333;
+  color: #e0e0e0;
+  border: 1px solid #444;
+  border-radius: 5px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.chapters {
+  margin-bottom: 20px;
+}
+
+.chapter {
+  margin: 15px 0;
+  padding: 10px;
+  background-color: #2c2c2c;
+  border-radius: 5px;
+}
+
+.chapter h3 {
+  margin-top: 0;
+  color: #2ecc71; /* Đổi từ xanh dương (#3498db) sang xanh lá cây */
+  font-size: 1.2em;
+}
+
+.result-item {
+  border: 1px solid #555;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  background-color: #333;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+.result-item h4 {
+  color: #2ecc71; /* Đổi từ xanh dương (#3498db) sang xanh lá cây */
+  margin-top: 0;
+  font-size: 1.1em;
+}
+
+.correct {
+  color: #27ae60;
+  font-weight: bold;
+}
+
+.incorrect {
+  color: #e74c3c;
+  font-weight: bold;
+}
+
+.explanation {
+  font-style: italic;
+  color: #bdc3c7;
+  margin-top: 10px;
+  font-size: 0.9em;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  display: inline; /* Ép toàn bộ explanation inline */
+}
+
+.explanation span.MJXc-display { /* Điều chỉnh MathJax block thành inline */
+  display: inline !important;
+  vertical-align: middle; /* Căn giữa theo chiều dọc */
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 10px;
+  }
+  .chapter-select {
+    width: 100%;
+  }
+}
+
+table {
+  border-collapse: collapse; /* Gộp các đường viền lại với nhau */
+  width: 100%; /* Đảm bảo bảng chiếm toàn bộ chiều rộng */
+  margin: 10px 0; /* Thêm khoảng cách trên dưới */
+  border: 1px solid #555; /* Đường viền chính cho bảng */
+}
+
+td {
+  border: 1px solid #555; /* Đường viền cho từng ô */
+  padding: 8px; /* Thêm padding để ô dễ đọc hơn */
+  text-align: center; /* Căn giữa nội dung trong ô */
+}
+
+th {
+  border: 1px solid #555; /* Đường viền cho tiêu đề (nếu có) */
+  padding: 8px;
+  text-align: center;
+}
