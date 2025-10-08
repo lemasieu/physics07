@@ -19,7 +19,7 @@
   },
   {
     "question": "Đại lượng nào sau đây cho biết mức độ nhanh hay chậm của chuyển động?",
-    "options": ["A. Quãng đường.", "B. Thời gian chuyền động.", "C. Tốc độ.", "D. Tần số."],
+    "options": ["A. Quãng đường.", "B. Thời gian chuyển động.", "C. Tốc độ.", "D. Tần số."],
     "answer": "C",
     "difficulty": "easy",
     "type": "tracnghiem",
@@ -69,7 +69,7 @@
     "difficulty": "easy",
     "type": "tracnghiem",
     "chuyenDe": 1,
-    "explanation": "Tốc độ phụ thuộc vào quãng đường và thời gia chuyển động. (Chuyên đề 1)"
+    "explanation": "Tốc độ phụ thuộc vào quãng đường và thời gian chuyển động. (Chuyên đề 1)"
   },
   {
     "question": "Tốc độ cho biết điều gì? <br> I. Tính nhanh hay chậm của chuyển động <br> II. Quãng đường đi được <br> III. Quãng đường đi được trong một đơn vị thời gian <br> IV. Tác dụng của vật này lên vật khác",
@@ -189,7 +189,7 @@
     "explanation": "Ta có: \\(1km/h = \\dfrac{1}{3,6}m/s\\). Ta suy ra: \\(72km/h = \\dfrac{72}{3,6}m/s = 20m/s\\). (Chuyên đề 1)"
   },
   {
-    "question": "Hãy sắp xếp các tốc độ sau theo thứ tự từ nhỏ đến lớn. <br> (1) Tàu hoà: 54 km/h <br> (2) Chim đại bàng: 24 m/s <br> (3) Cá bơi: 6000 cm/min (cm/phút) <br> (4) Trái Đất quay quanh Mặt Trời: 108000 km/h",
+    "question": "Hãy sắp xếp các tốc độ sau theo thứ tự từ nhỏ đến lớn. <br> (1) Tàu hoả: 54 km/h <br> (2) Chim đại bàng: 24 m/s <br> (3) Cá bơi: 6000 cm/min (cm/phút) <br> (4) Trái Đất quay quanh Mặt Trời: 108000 km/h",
     "options": ["A. (1), (2), (3), (4).", "B. (3), (1), (2), (4).", "C. (3), (2), (1), (4).", "D. (3), (1), (4), (2)."],
     "answer": "B",
     "difficulty": "medium",
@@ -226,7 +226,7 @@
   },
   {
     "question": "Một xe đạp đi với tốc độ 12km/h. Con số đó cho ta biết điều gì?",
-    "options": ["A. Thời gian đi của xe đạp.", "B. Xe đạp đi 1 giờ được 12km.", "C. Quâng đường đi của xe đạp.", "D. Mỗi km xe đạp đi trong 12 giờ."],
+    "options": ["A. Thời gian đi của xe đạp.", "B. Xe đạp đi 1 giờ được 12km.", "C. Quãng đường đi của xe đạp.", "D. Mỗi km xe đạp đi trong 12 giờ."],
     "answer": "B",
     "difficulty": "easy",
     "type": "tinhtoan",
@@ -361,7 +361,7 @@
   },
   {
     "question": "Chọn phát biểu đúng khi nói về đồ thị quãng đường – thời gian.",
-    "options": ["A. Đồ thị quãng đường – thời gian mô tả liên hệ giữa quãng đường đi được của vật và thời gian.", "B. Trục tung Os biêu thị thời gian.", "C. Đồ thị quãng đường – thời gian có điểm gốc O là điểm khởi hành, khi đó s = 0 và t = 1.", "D. Trục hoành Ot biểu thị quãng đường."],
+    "options": ["A. Đồ thị quãng đường – thời gian mô tả liên hệ giữa quãng đường đi được của vật và thời gian.", "B. Trục tung Os biểu thị thời gian.", "C. Đồ thị quãng đường – thời gian có điểm gốc O là điểm khởi hành, khi đó s = 0 và t = 1.", "D. Trục hoành Ot biểu thị quãng đường."],
     "answer": "A",
     "difficulty": "easy",
     "type": "tracnghiem",
@@ -450,7 +450,7 @@
     "explanation": "Vì cự ly ngắn nên chỉ cần thước cuộn và đồng hồ bấm giây là đủ để đo. (Chuyên đề 1)"
   },
   {
-    "question": "Trong phòng thí nghiệm, người ta thường sử dụng những dụng cụ đo nào để đo tốc độ của các vật chuyền động nhanh và có kích thước nhỏ?",
+    "question": "Trong phòng thí nghiệm, người ta thường sử dụng những dụng cụ đo nào để đo tốc độ của các vật chuyển động nhanh và có kích thước nhỏ?",
     "options": ["A. Thước, cổng quang điện và đồng hồ bấm giây.", "B. Thước và đồng hồ đo thời gian hiện số.", "C. Thước, đồng hồ đo thời gian hiện số kết nối với cổng quang điện.", "D. Cổng quang điện và đồng hồ bấm giây."],
     "answer": "C",
     "difficulty": "easy",
@@ -627,7 +627,7 @@
     "difficulty": "easy",
     "type": "tracnghiem",
     "chuyenDe": 2,
-    "explanation": "Các vật dao động phát ra âm thanh gọi là nguồn âm. Cả ba trường hợp trên đều cí dao động phát ra âm nên đều là nguồn âm. (Chuyên đề 2)"
+    "explanation": "Các vật dao động phát ra âm thanh gọi là nguồn âm. Cả ba trường hợp trên đều có dao động phát ra âm nên đều là nguồn âm. (Chuyên đề 2)"
   },
   {
     "question": "Chọn câu không đúng:",
@@ -675,7 +675,7 @@
     "explanation": "Khi thổi sáo, cột không khí trong ống sáo dao động qua lại quanh vị trí cân bằng, tạo ra âm thanh => nguồn âm là cột không khí trong ống sáo. (Chuyên đề 2)"
   },
   {
-    "question": "Dủng búa gõ xuống mặt bàn, ta nghe âm thanh của mặt bàn. Khi đó:",
+    "question": "Dùng búa gõ xuống mặt bàn, ta nghe âm thanh của mặt bàn. Khi đó:",
     "options": ["A. Tay là nguồn âm vì ta dùng búa gõ xuông bàn làm phát ra âm thanh.", "B. Búa là nguồn dao động vì nhờ có búa mới tạo ra âm thanh.", "C. Mặt bàn không phải là vật dao động vì ta thấy mặt bàn đứng yên.", "D. Mặt bàn là nguồn dao động vì mặt bàn dao động rất nhanh và ta không thấy được."],
     "answer": "D",
     "difficulty": "easy",
@@ -690,7 +690,7 @@
     "difficulty": "easy",
     "type": "tracnghiem",
     "chuyenDe": 2,
-    "explanation": "Dùng tay bóp vào con chút chít đồ chơi thấy có tiểng kêu, bộ phận tạo ra dao động âm là lưỡi gà của con chút chít đồ chơi. (Chuyên đề 2)"
+    "explanation": "Dùng tay bóp vào con chút chít đồ chơi thấy có tiếng kêu, bộ phận tạo ra dao động âm là lưỡi gà của con chút chít đồ chơi. (Chuyên đề 2)"
   },
   {
     "question": "Trường hợp nào sau đây có thể phát ra âm thanh?",
@@ -720,7 +720,7 @@
     "explanation": "Khi gõ vào các ống trúc trên đàn Tơ-rung, ta nghe thấy âm thanh phát ra, âm phát ra từ các ống trúc do cột không khí trong các ông trúc dao động quanh vị trí cân bằng. (Chuyên đề 2)"
   },
   {
-    "question": "Khi đánh trỗng, tại sao người ta thường gõ dùi trống vào mặt trổng một cách dứt khoát?",
+    "question": "Khi đánh trống, tại sao người ta thường gõ dùi trống vào mặt trống một cách dứt khoát?",
     "options": ["A. Để mặt trống có thể dao động ngay và tạo ra âm thanh.", "B. Đề mặt trống không bị hỏng.", "C. Để mặt trống ít bị rung.", "D. Để mặt trống rung mạnh hơn."],
     "answer": "A",
     "difficulty": "easy",
@@ -729,7 +729,7 @@
     "explanation": "Khi đánh trống, người ta thường gõ dùi trống vào mặt trống một cách dứt khoát để mặt trống có thể dao động ngay và tạo ra âm thanh. (Chuyên đề 2)"
   },
   {
-    "question": "Khi đánh trỗng, tại sao người ta thường gõ dùi trống vào mặt trổng một cách dứt khoát?",
+    "question": "Vì sao khi bay một số côn trùng như ong, ruổi, muỗi, ... tạo ra những tiếng vo ve?",
     "options": ["A. Chúng vừa bay vửa kêu.", "B. Những đôi cánh của chúng vẫy rất nhanh tạo ra dao động và phát ra âm thanh.", "C. Chúng có bộ phận phát ra âm thanh đặc biệt.", "D. Hơi thở của chúng mạnh đến mức phát ra âm thanh."],
     "answer": "B",
     "difficulty": "easy",
@@ -820,7 +820,7 @@
   },
   {
     "question": "Phát biểu nào đúng khi nói về môi trường truyền âm?",
-    "options": ["A. Khi truyền âm trong không khí, nếu không khí càng loãng thì sự truyển âm càng nhanh.", "B. Trong những điều kiện như nhau, chất rắn truyền âm kém hơn chất lỏng.", "C. Sóng âm truyền tốt trong chân không.", "D. Trong 3 môi trường truyển âm rắn, lỏng và khí thì chất khí truyển âm kém nhất."],
+    "options": ["A. Khi truyền âm trong không khí, nếu không khí càng loãng thì sự truyền âm càng nhanh.", "B. Trong những điều kiện như nhau, chất rắn truyền âm kém hơn chất lỏng.", "C. Sóng âm truyền tốt trong chân không.", "D. Trong 3 môi trường truyền âm rắn, lỏng và khí thì chất khí truyền âm kém nhất."],
     "answer": "D",
     "difficulty": "medium",
     "type": "tracnghiem",
@@ -865,7 +865,7 @@
   },
   {
     "question": "Trên núi cao âm thanh truyền đi:",
-    "options": ["A. Khó hơn, vì không khí loãng môi trường truyền âm kém.", "B. Khó hơn, vì trên núi lạnh hơn, âm thanh khó truyển đi hơn.", "C. Dễ hơn, vì không có vận cản âm.", "D. Dễ hơn, vì trên núi gió rất lớn do đó mà âm được mang đi."],
+    "options": ["A. Khó hơn, vì không khí loãng môi trường truyền âm kém.", "B. Khó hơn, vì trên núi lạnh hơn, âm thanh khó truyền đi hơn.", "C. Dễ hơn, vì không có vận cản âm.", "D. Dễ hơn, vì trên núi gió rất lớn do đó mà âm được mang đi."],
     "answer": "A",
     "difficulty": "easy",
     "type": "tracnghiem",
@@ -1050,7 +1050,7 @@
     "difficulty": "easy",
     "type": "tracnghiem",
     "chuyenDe": 2,
-    "explanation": "Khi độ to của âm bằng hay lớn hơn 130 dB thì âm thanh làm cho tai nhức nhối rất khó chịu và có thể làm điểc tai. (Chuyên đề 2)"
+    "explanation": "Khi độ to của âm bằng hay lớn hơn 130 dB thì âm thanh làm cho tai nhức nhối rất khó chịu và có thể làm điếc tai. (Chuyên đề 2)"
   },
   {
     "question": "Khỉ truyền đi xa, đại lượng nào sau đây của âm đã thay đổi?",
@@ -1125,7 +1125,7 @@
     "explanation": "Trường hợp gõ mạnh vào mặt trống tạo ra biên độ dao động lớn, âm phát ra lớn. (Chuyên đề 2)"
   },
   {
-    "question": "Gõ búa vào kèng thì:",
+    "question": "Gõ búa vào kẻng thì:",
     "options": ["A. Gõ càng mạnh kêu càng trầm.", "B. Gõ càng mạnh kêu càng to.", "C. Gõ càng mạnh kêu càng bổng.", "D. Gõ càng mạnh kêu càng nhỏ."],
     "answer": "B",
     "difficulty": "easy",
@@ -1207,7 +1207,7 @@
   },
   {
     "question": "Chọn câu trả lời sai:",
-    "options": ["A. Những âm thanh vượt quá ngưỡng đau là những âm thanh mà tai của con người vẫn có thể nghe được.", "B. Ngưỡng đau là ngưỡng mà nều âm thanh có độ to vượt qua ngưỡng đó sẽ làm tai người nghe đau nhức.", "C. Siêu âm là loại âm thanh có tần số rất lớn do đó nó là loại âm thanh vượt quá ngưỡng đau.", "D. Ngưỡng đau có thể làm điếc tai là 130dB."],
+    "options": ["A. Những âm thanh vượt quá ngưỡng đau là những âm thanh mà tai của con người vẫn có thể nghe được.", "B. Ngưỡng đau là ngưỡng mà nếu âm thanh có độ to vượt qua ngưỡng đó sẽ làm tai người nghe đau nhức.", "C. Siêu âm là loại âm thanh có tần số rất lớn do đó nó là loại âm thanh vượt quá ngưỡng đau.", "D. Ngưỡng đau có thể làm điếc tai là 130dB."],
     "answer": "C",
     "difficulty": "easy",
     "type": "tracnghiem",
@@ -1216,7 +1216,7 @@
   },
   {
     "question": "Tại sao khi dùng dùi gõ mạnh lên mặt trống ta sẽ nghe to hơn?",
-    "options": ["A. Vì đánh mạnh làm cho tần số dao động của mặt trổng giảm.", "B. Vì đánh mạnh làm cho tần số dao động của mặt trổng tăng.", "C. Vì đánh mạnh làm cho biên độ dao động của mặt trống giảm.", "D. Vì đánh mạnh làm cho biên độ dao động của mặt trồng tăng."],
+    "options": ["A. Vì đánh mạnh làm cho tần số dao động của mặt trống giảm.", "B. Vì đánh mạnh làm cho tần số dao động của mặt trống tăng.", "C. Vì đánh mạnh làm cho biên độ dao động của mặt trống giảm.", "D. Vì đánh mạnh làm cho biên độ dao động của mặt trồng tăng."],
     "answer": "D",
     "difficulty": "easy",
     "type": "tracnghiem",
@@ -1225,7 +1225,7 @@
   },
   {
     "question": "Chọn câu trả lời sai:",
-    "options": ["A. Không thể thay đổi độ to của âm phát ra khi đánh trên một dây đàn.", "B. Biên độ dao động của dây đàn càng lớn thì âm phát ra càng to.", "C. Cùng một động tác gày đàn như nhau, dây đàn càng căng thì âm phát ra càng cao và ngược lại.", "D. Khi gảy đàn ở các dây khác nhau thì chúng ta có thể nghe được các âm khác nhau."],
+    "options": ["A. Không thể thay đổi độ to của âm phát ra khi đánh trên một dây đàn.", "B. Biên độ dao động của dây đàn càng lớn thì âm phát ra càng to.", "C. Cùng một động tác gảy đàn như nhau, dây đàn càng căng thì âm phát ra càng cao và ngược lại.", "D. Khi gảy đàn ở các dây khác nhau thì chúng ta có thể nghe được các âm khác nhau."],
     "answer": "A",
     "difficulty": "medium",
     "type": "tracnghiem",
@@ -1306,7 +1306,7 @@
   },
   {
     "question": "Kết luận nào sau đây là không đúng?",
-    "options": ["A. Hạ âm là những âm thanh có tần số nhỏ hơn 20Hz.", "B. Tai của người nghe được hạ âm và siêu âm.", "C. Máy phát siêu âm là máy phát ra âm thanh có tần số lớn hơon 20000Hz.", "D. Một số động vật có thể nghe được âm thanh mà tai người không nghe được."],
+    "options": ["A. Hạ âm là những âm thanh có tần số nhỏ hơn 20Hz.", "B. Tai của người nghe được hạ âm và siêu âm.", "C. Máy phát siêu âm là máy phát ra âm thanh có tần số lớn hơn 20000Hz.", "D. Một số động vật có thể nghe được âm thanh mà tai người không nghe được."],
     "answer": "B",
     "difficulty": "easy",
     "type": "tracnghiem",
@@ -1689,7 +1689,7 @@
     "difficulty": "easy",
     "type": "tracnghiem",
     "chuyenDe": 2,
-    "explanation": "Trong phòng kín ta thường nghe âm thanh to hơn ngoài trời vì trong phòng kín thường có phản xạ âm, tai người nhận được nhiểu âm phản xạ cùng một lúc sẽ nghe to hơn. (Chuyên đề 2)"
+    "explanation": "Trong phòng kín ta thường nghe âm thanh to hơn ngoài trời vì trong phòng kín thường có phản xạ âm, tai người nhận được nhiều âm phản xạ cùng một lúc sẽ nghe to hơn. (Chuyên đề 2)"
   },
   {
     "question": "Trường hợp nào ta có thể nghe rõ tiếng vang?",
@@ -1818,7 +1818,7 @@
     "explanation": "Khi môi trường có tiếng ồn to (A; B; D), kéo dài (B) gây ảnh hưởng xấu đến sức khỏe và hoạt động bình thường của con người thì môi trường đó bị ô nhiễm tiếng ồn. (Chuyên đề 2)"
   },
   {
-    "question": "Giả sử nhà em gần đường giao thông có rất nhiều phương tiện qua lại như: xe tải, ôtô, xe máy. Em hãy chọn phương án chống nhiễm tiếng ồn phù hợp nhất.",
+    "question": "Giả sử nhà em gần đường giao thông có rất nhiều phương tiện qua lại như: xe tải, ô tô, xe máy. Em hãy chọn phương án chống nhiễm tiếng ồn phù hợp nhất.",
     "options": ["A. Chuyển nhà ở đi nơi khác.", "B. Luôn mở cửa cho thông thoáng.", "C. Trồng cây xanh xung quanh nhà.", "D. Chặt hết cây xanh xung quanh nhà."],
     "answer": "C",
     "difficulty": "easy",
@@ -2233,16 +2233,16 @@
   },
   {
     "question": "Vật nào sau đây không thể xem là gương phẳng?",
-    "options": ["A. Màn hình tivi.", "B. Mặt hồ nước trong.", "C. Mặt tờ giấy trắng.", "D. Miếng thủy tỉnh không tráng bạc nitrat."],
+    "options": ["A. Màn hình tivi.", "B. Mặt hồ nước trong.", "C. Mặt tờ giấy trắng.", "D. Miếng thủy tinh không tráng bạc nitrat."],
     "answer": "C",
     "difficulty": "easy",
     "type": "tracnghiem",
     "chuyenDe": 3,
-    "explanation": "Gương phẳng là một phần của mặt phẳng, nhẵn bóng, có thể soi hình của các vật. Vì vậy màn hình tivi, mặt hồ nước trong, miếng thủy tinh không tráng bạc có thể xem là gương phằng vì đều có đặc điểm là mặt phẳng, nhẫn bóng có thể soi hình. Còn mặt tờ giấy trắng phăng nhưng không thể soi hình. (Chuyên đề 3)"
+    "explanation": "Gương phẳng là một phần của mặt phẳng, nhẵn bóng, có thể soi hình của các vật. Vì vậy màn hình tivi, mặt hồ nước trong, miếng thủy tinh không tráng bạc có thể xem là gương phẳng vì đều có đặc điểm là mặt phẳng, nhẵn bóng có thể soi hình. Còn mặt tờ giấy trắng phăng nhưng không thể soi hình. (Chuyên đề 3)"
   },
   {
     "question": "Chọn câu đúng?",
-    "options": ["A. Tia phản xạ nằm trong mặt phẳng chứa tia tới và đường pháp tuyến với gương tại điểm tới.", "B. Tia phản xạ, tia tới và đường pháp tuyến vớiới gương tại điểm tới cùng năm trong một mặt phẳng.", "C. Mặt phăng chứa tia tới và đường pháp tuyến với gương tại điểm tới cũng chứa tia phản xạ.", "D. Cả A, B, C đều đúng."],
+    "options": ["A. Tia phản xạ nằm trong mặt phẳng chứa tia tới và đường pháp tuyến với gương tại điểm tới.", "B. Tia phản xạ, tia tới và đường pháp tuyến với gương tại điểm tới cùng năm trong một mặt phẳng.", "C. Mặt phăng chứa tia tới và đường pháp tuyến với gương tại điểm tới cũng chứa tia phản xạ.", "D. Cả A, B, C đều đúng."],
     "answer": "D",
     "difficulty": "easy",
     "type": "tracnghiem",
@@ -2274,7 +2274,7 @@
     "difficulty": "easy",
     "type": "tinhtoan",
     "chuyenDe": 3,
-    "explanation": "Ảnh và vật đổi xứng nhau qua gương phẳng nên khoảng cách từ vật đến gương bằng khoảng cách từ ảnh đến gương. Vì vậy một người đứng trước gương phẳng cho ảnh cách gương 1,5m thì người đó cũng cách gương 1,5 m. (Chuyên đề 3)"
+    "explanation": "Ảnh và vật đổi xứng nhau qua gương phẳng nên khoảng cách từ vật đến gương bằng khoảng cách từ ảnh đến gương. Vì vậy một người đứng trước gương phẳng cho ảnh cách gương 1,5 m thì người đó cũng cách gương 1,5 m. (Chuyên đề 3)"
   },
   {
     "question": "Chọn phát biểu đúng?",
@@ -2283,16 +2283,16 @@
     "difficulty": "easy",
     "type": "tracnghiem",
     "chuyenDe": 3,
-    "explanation": "Ảnh tạo bởi gương phắng không hứng được trên màn chắn => Đáp án C sai. <br> Anh tạo bởi gương phẳng lớn bằng vật => Đáp án A, B sai. Đáp án D đúng. (Chuyên đề 3)"
+    "explanation": "Ảnh tạo bởi gương phẳng không hứng được trên màn chắn => Đáp án C sai. <br> Ảnh tạo bởi gương phẳng lớn bằng vật => Đáp án A, B sai. Đáp án D đúng. (Chuyên đề 3)"
   },
   {
-    "question": "Hai viên phẩn giống hệt nhau, viên thứ nhất đặt thẳng đứng trước gương phẳng, viên thứ hai đặt thẳng đứng trước gương cầu lồi, thu được hai ảnh. Quan sát hai ảnh và tìm từ thích hợp điển vào chỗ trổng. Anh tạo bởi gương cầu lồi ................ ảnh tạo bởi gương phẳng.",
+    "question": "Hai viên phấn giống hệt nhau, viên thứ nhất đặt thẳng đứng trước gương phẳng, viên thứ hai đặt thẳng đứng trước gương cầu lồi, thu được hai ảnh. Quan sát hai ảnh và tìm từ thích hợp điển vào chỗ trống. Ảnh tạo bởi gương cầu lồi ................ ảnh tạo bởi gương phẳng.",
     "options": ["A. nhỏ hơn.", "B. bằng.", "C. lớn hơn.", "D. có thể lớn hơn hoặc nhỏ hơn."],
     "answer": "A",
     "difficulty": "easy",
     "type": "tracnghiem",
     "chuyenDe": 3,
-    "explanation": "Gương phẳng: Ảnh ảo và bằng vật. <br> Gương cầu lồi: Anh ảo và nhỏ hơn vật. => Đáp án A đúng. (Chuyên đề 3)"
+    "explanation": "Gương phẳng: Ảnh ảo và bằng vật. <br> Gương cầu lồi: Ảnh ảo và nhỏ hơn vật. => Đáp án A đúng. (Chuyên đề 3)"
   },
   {
     "question": "Vật sáng AB đặt trước gương cầu lồi cho ảnh A'B' có đặc điểm như thế nào?",
@@ -2364,7 +2364,7 @@
     "difficulty": "easy",
     "type": "tracnghiem",
     "chuyenDe": 3,
-    "explanation": "Chùm tia tới song song gặp gương cầu lõm có chùm tia phản xạ là ch m sáng hội tụ. (Chuyên đề 3)"
+    "explanation": "Chùm tia tới song song gặp gương cầu lõm có chùm tia phản xạ là chùm sáng hội tụ. (Chuyên đề 3)"
   },
   {
     "question": "Chọn câu trả lời đúng. Ta biết rằng khi chiếu một chùm tia song song lên một gương cầu lõm thì chùm tia phản xạ sẽ hội tụ tại một điểm ở trước gương. Nếu đặt tại điểm đó một màn chắn nhỏ thì ta sẽ thấy:",
@@ -2395,7 +2395,7 @@
   },
   {
     "question": "Chọn câu giải thích rõ ràng, đầy đủ nhất. <br> <img src='https://web.archive.org/web/20251001044507im_/https://video.vietjack.com/upload2/quiz_source1/2020/05/e4-1588714355.JPG' alt='Gương cầu lõm đun nước' height='200'> <br> Trên hình vẽ, là một thiết bị dùng gương cầu lõm hứng ánh sáng Mặt Trời để đun nước nóng. Thùng nước nóng lên vì:",
-    "options": ["A. Ánh sáng Mặt Trời mang nhiệt. Mặt Trời chiểu tới gương một chủm sáng song song. Gương cầu lõm cho chùm tia phản xạ hội tụ tại vị trí đặt thùng nước, làm cho nhiệt độ tại đó tăng lên cao.", "B. Ánh sáng chiếu vào thùng nước mạnh lên rất nhiều.", "C. Chùm phản xạ từ gương hội tụ tại vị trí đặt thùng nước.", "D. Ánh sáng Mặt Trời mang nhiệt."],
+    "options": ["A. Ánh sáng Mặt Trời mang nhiệt. Mặt Trời chiểu tới gương một chùm sáng song song. Gương cầu lõm cho chùm tia phản xạ hội tụ tại vị trí đặt thùng nước, làm cho nhiệt độ tại đó tăng lên cao.", "B. Ánh sáng chiếu vào thùng nước mạnh lên rất nhiều.", "C. Chùm phản xạ từ gương hội tụ tại vị trí đặt thùng nước.", "D. Ánh sáng Mặt Trời mang nhiệt."],
     "answer": "A",
     "difficulty": "easy",
     "type": "tracnghiem",
@@ -2404,7 +2404,7 @@
   },
   {
     "question": "Chọn câu trả lời đầy đủ nhất. Gương cầu lõm có thể tạo ra ảnh:",
-    "options": ["A. Ảo, lớn hơn vật.", "B. Ảnh ảo lớn hơn vật khi vật đặt gần sát gương, ảnh thật khi vật ở xa gưong.", "C. Thật.", "D. Hứng được trên màn chắn."],
+    "options": ["A. Ảo, lớn hơn vật.", "B. Ảnh ảo lớn hơn vật khi vật đặt gần sát gương, ảnh thật khi vật ở xa gương.", "C. Thật.", "D. Hứng được trên màn chắn."],
     "answer": "B",
     "difficulty": "easy",
     "type": "tracnghiem",
@@ -2535,10 +2535,10 @@
     "difficulty": "easy",
     "type": "tracnghiem",
     "chuyenDe": 3,
-    "explanation": "Kẻ đường thắng trên giấy chỉ cần dùng thước, không cần sử dụng đển định luật về sự truyền thẳng của ánh sáng. (Chuyên đề 3)"
+    "explanation": "Kẻ đường thắng trên giấy chỉ cần dùng thước, không cần sử dụng đến định luật về sự truyền thẳng của ánh sáng. (Chuyên đề 3)"
   },
   {
-    "question": "Chiếu một tia tới lên một gương phắng. Biết góc phản xạ \\(i' = 15^{\\circ} \\). Góc tạo bởi tia tới và tia phản xạ là:",
+    "question": "Chiếu một tia tới lên một gương phẳng. Biết góc phản xạ \\(i' = 15^{\\circ} \\). Góc tạo bởi tia tới và tia phản xạ là:",
     "options": ["A. 30 độ.", "B. 45 độ.", "C. 60 độ.", "D. 15 độ."],
     "answer": "A",
     "difficulty": "easy",
@@ -2557,15 +2557,15 @@
   },
   {
     "question": "Dùng ống rỗng, cong để quan sát thì không thấy dây tóc bóng đèn pin phát sáng vì:",
-    "options": ["A. ánh sáng từ dây tóc không truyền đi theo ống cong.", "B. ánh sáng phát ra từ mắt ta không đến được bóng đèn.", "C. ánh sáng từ dây tóc bóng đèn truyển đi theo đường thắng mà ổng rỗng lại cong.", "D. ánh sáng phát ra từ dây tóc chỉ truyền bên ngoài ống."],
+    "options": ["A. ánh sáng từ dây tóc không truyền đi theo ống cong.", "B. ánh sáng phát ra từ mắt ta không đến được bóng đèn.", "C. ánh sáng từ dây tóc bóng đèn truyền đi theo đường thắng mà ổng rỗng lại cong.", "D. ánh sáng phát ra từ dây tóc chỉ truyền bên ngoài ống."],
     "answer": "C",
     "difficulty": "easy",
     "type": "tracnghiem",
     "chuyenDe": 3,
-    "explanation": "Dùng ống rỗng, cong để quan sát thì không thấy dây tóc bóng đèn pin phát sáng vì ánh sáng từ dây tóc bóng đèn truyền đi theo đường thẳng mà ổng rỗng lại cong => ánh sáng không truyên được đền mắt. (Chuyên đề 3)"
+    "explanation": "Dùng ống rỗng, cong để quan sát thì không thấy dây tóc bóng đèn pin phát sáng vì ánh sáng từ dây tóc bóng đèn truyền đi theo đường thẳng mà ổng rỗng lại cong => ánh sáng không truyền được đền mắt. (Chuyên đề 3)"
   },
   {
-    "question": "Phát biểu nào là sai trong các phát biều sau đây khi nói về chùm sáng song song?",
+    "question": "Phát biểu nào là sai trong các phát biểu sau đây khi nói về chùm sáng song song?",
     "options": ["A. Trong chùm sáng song song, các tia sáng không thể xuất phát từ một điểm.", "B. Trong chùm sáng song song, các tia sáng không giao nhau.", "C. Trong chùm sáng song song, các tia sáng luôn song song với nhau.", "D. Trong chùm sáng song song, các tia sáng luôn vuông góc với nhau."],
     "answer": "D",
     "difficulty": "easy",
@@ -2574,7 +2574,7 @@
     "explanation": "Chùm sáng song song thì các tia sáng không giao nhau. => Các tia sáng không xuất phát từ một điểm. (Chuyên đề 3)"
   },
   {
-    "question": "Cho điểm sáng S trước gương phẳng cách ảnh S' của nó qua gương một khoảng 80 cm. Anh S' của S tạo bởi gương phẳng năm cách gương một khoảng là:",
+    "question": "Cho điểm sáng S trước gương phẳng cách ảnh S' của nó qua gương một khoảng 80 cm. Ảnh S' của S tạo bởi gương phẳng năm cách gương một khoảng là:",
     "options": ["A. 40 cm.", "B. 160 cm.", "C. 20 cm.", "D. 10 cm."],
     "answer": "A",
     "difficulty": "easy",
@@ -2665,7 +2665,7 @@
   },
   {
     "question": "Gương có tác dụng biển đổi một chùm tia tới song song thành chùm tia phản xạ hội tụ là gương gì?",
-    "options": ["A. Gương phẳng.", "B. Gương cầu lồi.", "C. Gương cầu lõm.", "D. Cå B và C."],
+    "options": ["A. Gương phẳng.", "B. Gương cầu lồi.", "C. Gương cầu lõm.", "D. Cả B và C."],
     "answer": "C",
     "difficulty": "easy",
     "type": "tracnghiem",
@@ -2790,7 +2790,7 @@
     "explanation": "Mọi kim nam châm khi nằm cân bằng và phải ở trạng thái tự do thì nó mới nằm theo hướng Bắc - Nam. (Chuyên đề 4)"
   },
   {
-    "question": "Trong các vật liệu đưới đây, đâu không phải là vật liệu từ?",
+    "question": "Trong các vật liệu dưới đây, đâu không phải là vật liệu từ?",
     "options": ["A. Inox.", "B. Niken.", "C. Cô ban.", "D. Sắt."],
     "answer": "A",
     "difficulty": "easy",
@@ -2907,7 +2907,7 @@
     "explanation": "Tại mỗi vị trí nhất định trong từ trường của thanh nam châm, kim nam châm đều chỉ một hướng xác định. (Chuyên đề 4)"
   },
   {
-    "question": "Trên hình vẽ, đường sức từ nào vē sai? <br> <img src='https://web.archive.org/web/20251006035204im_/https://i.ibb.co/gLdskFVq/image.png' alt='Hướng dẫn giải' height='250'>",
+    "question": "Trên hình vẽ, đường sức từ nào vẽ sai? <br> <img src='https://web.archive.org/web/20251006035204im_/https://i.ibb.co/gLdskFVq/image.png' alt='Hướng dẫn giải' height='250'>",
     "options": ["A. 1.", "B. 3.", "C. 2.", "D. 4."],
     "answer": "B",
     "difficulty": "medium",
@@ -2925,7 +2925,7 @@
     "explanation": "Ta có thể nhận biết từ trường thông qua các hiện tượng tác dụng lực lên nam châm thử hoặc kim nam châm, như kim bị lệch hướng. Ngoài ra, ta cũng có thể dùng nam châm thử để phát hiện từ trường xung quanh dòng điện hoặc vật liệu có từ tính, hoặc sử dụng các thiết bị chuyên dụng hơn như ống hút điện từ để kiểm tra sự chuyển động của vật dẫn điện. (Chuyên đề 4)"
   },
   {
-    "question": "Cách làm nào đưới đây giúp ta thu được hình ảnh của từ phổ?",
+    "question": "Cách làm nào dưới đây giúp ta thu được hình ảnh của từ phổ?",
     "options": ["A. Rải cát lên tấm nhựa đặt trong từ trường của nam châm và gõ nhẹ.", "B. Đặt thanh nam châm gần bức tường và rọi đèn vào thanh nam châm.", "C. Dùng kim nam châm xếp lên trên một tấm nhựa đặt trong từ trường của nam châm.", "D. Rắc mạt sắt lên tầm nhựa đặt trong từ trường của nam châm và gõ nhẹ."],
     "answer": "D",
     "difficulty": "easy",
@@ -3061,7 +3061,7 @@
   },
   {
     "question": "Trục Trái Đất là:",
-    "options": ["A. Trục nằm ngang, chia đôi Trái Đất thành hai nửa bằng nhau.", "B. Là đường thẳng nối giữa cực từ Nam và cực từ Bắc.", "C. Là đường thẳng nối giữa cực Nam và cực Bắc địa lý.", "D. Trục nằm dọc, chia đôi Trái Đất thành hai nừa bằng nhau."],
+    "options": ["A. Trục nằm ngang, chia đôi Trái Đất thành hai nửa bằng nhau.", "B. Là đường thẳng nối giữa cực từ Nam và cực từ Bắc.", "C. Là đường thẳng nối giữa cực Nam và cực Bắc địa lý.", "D. Trục nằm dọc, chia đôi Trái Đất thành hai nửa bằng nhau."],
     "answer": "C",
     "difficulty": "easy",
     "type": "tracnghiem",
@@ -3078,7 +3078,7 @@
     "explanation": "Từ trường Trái Đất mạnh nhất ở hai cực từ, và tuy 2 cực từ không trùng nhưng vẫn gần với 2 cực địa lý nên Bắc Cực và Nam Cực có từ trường > xích đạo > vùng dị thường Nam Đại Tây Dương (nơi có từ trường yếu nhất). (Chuyên đề 4)"
   },
   {
-    "question": "Quả đất là một nam châm khồng lồ nhưng từ trường .......",
+    "question": "Quả đất là một nam châm khổng lồ nhưng từ trường .......",
     "options": ["A. khá yếu.", "B. rất mạnh.", "C. khá mạnh.", "D. rất yếu."],
     "answer": "A",
     "difficulty": "easy",
