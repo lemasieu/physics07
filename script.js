@@ -72,7 +72,7 @@ function getRandomQuestions(total, easyRatio, mediumRatio, hardRatio) {
   const easyTracNghiemCount = 2; // 2 câu trắc nghiệm dễ
   const easyTinhToanCount = 3; // 3 câu tính toán dễ
 
-  let filteredQuestions = selectedTopic === 7 
+  let filteredQuestions = selectedTopic === 5 
     ? questions 
     : questions.filter(q => q.chuyenDe === selectedTopic);
 
